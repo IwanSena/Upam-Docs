@@ -191,7 +191,12 @@ Dokumentasi ini juga menyediakan panduan untuk developer yang ingin:
 Developer dapat mengikuti panduan lanjutan di:
 
 👉 **Developer Section (Guide.html)**  
-👉 **Repo Template:** https://github.com/IwanSena/Upam-template-starter  
+👉 **Repo Template:** 
+**Github:**
+https://github.com/IwanSena/Upam-template-starter  
+
+**Gitlab:**
+https://gilab.com/Aliansiena/Upam-template-starter  
 
 ---
 
@@ -204,7 +209,7 @@ Developer dapat mengikuti panduan lanjutan di:
 **https://t.me/Aliansiena**
 
 ### ✅ Dokumentasi Upam Pro  
-*(GitHub Pages aktif setelah deploy)*
+**https://iwansena.github.io/Upam-Docs**
 
 ---
 
