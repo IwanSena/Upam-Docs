@@ -191,12 +191,13 @@ Dokumentasi ini juga menyediakan panduan untuk developer yang ingin:
 Developer dapat mengikuti panduan lanjutan di:
 
 👉 **Developer Section (Guide.html)**  
-👉 **Repo Template:** 
+👉 **Repo Template:**
+
 **Github:**
 https://github.com/IwanSena/Upam-template-starter  
 
 **Gitlab:**
-https://gilab.com/Aliansiena/Upam-template-starter  
+https://gitlab.com/Aliansiena/upam-template-starter
 
 ---
 
@@ -215,7 +216,7 @@ https://gilab.com/Aliansiena/Upam-template-starter
 
 # 🏷️ Lisensi
 Proyek ini dikembangkan oleh **Aliansiena Foundation**.  
-Lisensi mengikuti ketentuan open source yang berlaku pada masing‑masing modul.
+Lisensi mengikuti ketentuan open source yang berlaku pada masing‑masing modul termasuk src Upam Pro di versi Global.
 
 ---
 
